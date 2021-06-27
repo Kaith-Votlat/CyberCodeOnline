@@ -1012,51 +1012,51 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Старый мешочек",
  	 	 	 	"eng": "Old Pouch"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped.",
+ 	 	 	 	"trans": "Забытый старый мешочек, \r\n        на его стороне изображена странная стилизованная лягушка и рисунок красных губ,\r\n         значение древнего зловещего рисунка неизвестно, однако в мешочек удобно ложить маленькие вещи.\r\n        увеличивает вместительность инвентаря, когда экипирован.",
  	 	 	 	"eng": "A forgotten ancient pouch, \r\n        there is a weird cartoon frog with big mouth and red lips drawing at the side of it,\r\n        the meaning of the ancient ominous drawing is unknown, but it is handy for keep some small object in it.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Поясная сумка",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "Cool and fashionable Fanny Pack, signed by a legend called The Rock himself from decades ago.\r\n        increase inventory space when equipped.",
+ 	 	 	 	"trans": "Модная поясная сумка, собственноручно подписанная легендой по прозвищу The Rock, много лет назад.\r\n        увеличивает вместительность инвентаря, когда экипирована.",
  	 	 	 	"eng": "Cool and fashionable Fanny Pack, signed by a legend called The Rock himself from decades ago.\r\n        increase inventory space when equipped."
  	 	 	}
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Рюкзак путешественника",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped",
+ 	 	 	 	"trans": "Старый фиолетовый рюкзак, на вид детский, на боку висит бирка \"Даша\" с именем предыдущего владельца, ты выглядишь прекрасно, когда носишь его.\r\n        увеличивает вместительность инвентаря, когда экипирован",
  	 	 	 	"eng": "An old Kindergarten looking Purple 'Explorer' Backpack, it has a name tag with the previous owner's name \"Dora\" written on it, you look fabulous wearing it.\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Employee Office Case",
+ 	 	 	 	"trans": "Кейс офисного работника",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped",
+ 	 	 	 	"trans": "Стандартный офисный кейс, на боку написано \"Арасака\", \r\n        и хотя он прилично выглядит, имеет встроенные высокотехнологичные отсеки и слоты для документов, в нём всё ещё неудобно носить оружие\r\n        увеличивает вместительность инвентаря, когда экипирован",
  	 	 	 	"eng": "An standard issue office case, it has a label with whit print with \"Arasaka\" on it, \r\n        while it is specious and has some high tech compartment and slots for document storage, it is not not very suitable for carrying weapons\r\n        increase inventory space when equipped"
  	 	 	}
  	 	},
  	 	"backpack5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Autonomous Storage Unit",
+ 	 	 	 	"trans": "Автономная еденица хранения",
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing",
+ 	 	 	 	"trans": "Военный робот, разработанный носить вашу экипировку и следовать за вами,\r\n        используя шесть своих сильных ног, имитирующих походку паука и продвинутый ИИ, \r\n        он может следовать быстро и бесшумно не препятствуя выполению вашей важной миссии",
  	 	 	 	"eng": "An military used bot designed to carry your equipments and follows you autonomously,\r\n        with it's six strong legs that imitates the movement of spiders and a advance onboard AI, \r\n        it can follow you swiftly and quietly while it avoids get in the way of whatever mission you are performing"
  	 	 	}
  	 	}
@@ -1114,7 +1114,7 @@
  	 	 	 	"vars": [
  	 	 	 	 	"zoneName"
  	 	 	 	],
- 	 	 	 	"trans": "invade ${zoneName}",
+ 	 	 	 	"trans": "захватить ${zoneName}",
  	 	 	 	"eng": "invade ${zoneName}"
  	 	 	},
  	 	 	"description": {
@@ -1123,7 +1123,7 @@
  	 	 	 	 	"keyFragmentDisplayName",
  	 	 	 	 	"expMultiplier"
  	 	 	 	],
- 	 	 	 	"trans": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low",
+ 	 	 	 	"trans": "Рекомендуемый уровень:　${maxLevel}+ с другими игроками\r\n                    ${expMultiplier}x больше опыта!\r\n                    Данж банды, дополнительный лут и опыт. \r\n                    Лут с босса редкий+ \r\n                    Не рекомендуется входить, если ваш уровень слишком низкий",
  	 	 	 	"eng": "Recommended Level:　${maxLevel}+ with co-op\r\n                    ${expMultiplier}x more EXP!\r\n                    Gang mode dungeon, extra loot and exp. \r\n                    Boss drops are rare+ \r\n                    Not advised to enter if your level is too low"
  	 	 	}
  	 	}
@@ -1471,26 +1471,26 @@
  	 	 	 	"eng": "Deposit Bitcoin"
  	 	 	},
  	 	 	"level": {
- 	 	 	 	"trans": "Gang Level",
+ 	 	 	 	"trans": "Уровень банды",
  	 	 	 	"eng": "Gang Level"
  	 	 	},
  	 	 	"resource": {
- 	 	 	 	"trans": "Resource",
+ 	 	 	 	"trans": "Ресурсы",
  	 	 	 	"eng": "Resource"
  	 	 	},
  	 	 	"funding": {
- 	 	 	 	"trans": "funding",
+ 	 	 	 	"trans": "Финансы",
  	 	 	 	"eng": "funding"
  	 	 	},
  	 	 	"memberCount": {
- 	 	 	 	"trans": "members",
+ 	 	 	 	"trans": "участники",
  	 	 	 	"eng": "members"
  	 	 	},
  	 	 	"nextUpkeepDate": {
  	 	 	 	"vars": [
  	 	 	 	 	"nextUpkeepDate"
  	 	 	 	],
- 	 	 	 	"trans": "Next upkeep Date: ${nextUpkeepDate}",
+ 	 	 	 	"trans": "Следующая дата обслуживания: ${nextUpkeepDate}",
  	 	 	 	"eng": "Next upkeep Date: ${nextUpkeepDate}"
  	 	 	},
  	 	 	"insufficientError": {
@@ -1512,65 +1512,65 @@
  	 	},
  	 	"equipmentDisplay": {
  	 	 	"empty": {
- 	 	 	 	"trans": "Empty",
+ 	 	 	 	"trans": "Пусто",
  	 	 	 	"eng": "Empty"
  	 	 	}
  	 	},
  	 	"fab": {
  	 	 	"dungeonList": {
- 	 	 	 	"trans": "Dungeon List",
+ 	 	 	 	"trans": "Список данжей",
  	 	 	 	"eng": "Dungeon List"
  	 	 	},
  	 	 	"links": {
- 	 	 	 	"trans": "links",
+ 	 	 	 	"trans": "ссылки",
  	 	 	 	"eng": "links"
  	 	 	},
  	 	 	"premiumShop": {
- 	 	 	 	"trans": "Premium Shop",
+ 	 	 	 	"trans": "Премиум магазин",
  	 	 	 	"eng": "Premium Shop"
  	 	 	},
  	 	 	"friendList": {
- 	 	 	 	"trans": "Friend List",
+ 	 	 	 	"trans": "Список друзей",
  	 	 	 	"eng": "Friend List"
  	 	 	},
  	 	 	"leaderBoard": {
- 	 	 	 	"trans": "Leader Board",
+ 	 	 	 	"trans": "Таблица лидеров",
  	 	 	 	"eng": "Leader Board"
  	 	 	},
  	 	 	"skipQueue": {
- 	 	 	 	"trans": "Skip Queue",
+ 	 	 	 	"trans": "Пропустить очередь",
  	 	 	 	"eng": "Skip Queue"
  	 	 	},
  	 	 	"settings": {
- 	 	 	 	"trans": "Settings",
+ 	 	 	 	"trans": "Настройки",
  	 	 	 	"eng": "Settings"
  	 	 	}
  	 	},
  	 	"machineCrafting": {
  	 	 	"titleBox": {
  	 	 	 	"tile": {
- 	 	 	 	 	"trans": "system idle",
+ 	 	 	 	 	"trans": "Система бездействует",
  	 	 	 	 	"eng": "system idle"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Please inset an item",
+ 	 	 	 	 	"trans": "Пожалуйста, вставьте предмет",
  	 	 	 	 	"eng": "Please inset an item"
  	 	 	 	}
  	 	 	},
  	 	 	"selectItemButton": {
- 	 	 	 	"trans": "Recycle Item",
+ 	 	 	 	"trans": "Переработать предмет",
  	 	 	 	"eng": "Recycle Item"
  	 	 	},
  	 	 	"selectAmount": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Please select amount",
+ 	 	 	 	 	"trans": "Пожалуйста, выберите количество",
  	 	 	 	 	"eng": "Please select amount"
  	 	 	 	},
  	 	 	 	"subtitle": {
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "This will take ${timeStr}",
+ 	 	 	 	 	"trans": "Это займёт ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -1578,31 +1578,31 @@
  	 	"modal": {
  	 	 	"upgradeFailed": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Error",
+ 	 	 	 	 	"trans": "Ошбика",
  	 	 	 	 	"eng": "Error"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "Destructive failure accrued",
+ 	 	 	 	 	"trans": "Произошла критическая ошибка",
  	 	 	 	 	"eng": "Destructive failure accrued"
  	 	 	 	}
  	 	 	},
  	 	 	"upgradeSuccess": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Calibration Success",
+ 	 	 	 	 	"trans": "Успех калбировки",
  	 	 	 	 	"eng": "Calibration Success"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "No error detected",
+ 	 	 	 	 	"trans": "Ошибок не обнаружено",
  	 	 	 	 	"eng": "No error detected"
  	 	 	 	}
  	 	 	},
  	 	 	"leaveDungeon": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Are you sure you want to leave this dungeon?",
+ 	 	 	 	 	"trans": "Вы уверены что хотите покинуть этот данж?",
  	 	 	 	 	"eng": "Are you sure you want to leave this dungeon?"
  	 	 	 	},
  	 	 	 	"subtitle": {
- 	 	 	 	 	"trans": "You will not be able to enter this dungeon instance again",
+ 	 	 	 	 	"trans": "Вы больше не сможете войти в этот данж",
  	 	 	 	 	"eng": "You will not be able to enter this dungeon instance again"
  	 	 	 	}
  	 	 	}
@@ -1614,21 +1614,21 @@
  	 	 	 	 	"eng": "Core not found"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Please insert Calibration Core",
+ 	 	 	 	 	"trans": "Пожалуйста вставьте Ядро Калибровки",
  	 	 	 	 	"eng": "Please insert Calibration Core"
  	 	 	 	}
  	 	 	},
  	 	 	"activate": {
- 	 	 	 	"trans": "Insert Core",
+ 	 	 	 	"trans": "Вставить ядро",
  	 	 	 	"eng": "Insert Core"
  	 	 	},
  	 	 	"activating": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "Processing",
+ 	 	 	 	 	"trans": "Обработка",
  	 	 	 	 	"eng": "Processing"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Decrypting shard",
+ 	 	 	 	 	"trans": "Расшифровка информации",
  	 	 	 	 	"eng": "Decrypting shard"
  	 	 	 	}
  	 	 	},
@@ -2035,35 +2035,35 @@
  	 	},
  	 	"backpack1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Old Pouch",
+ 	 	 	 	"trans": "Старый мешочек",
  	 	 	 	"eng": "Old Pouch"
  	 	 	}
  	 	},
  	 	"trade": {
- 	 	 	"trans": "Trade",
+ 	 	 	"trans": "Обмен",
  	 	 	"eng": "Trade"
  	 	},
  	 	"backpack2": {
  	 	 	"name": {
- 	 	 	 	"trans": "Fanny Pack",
+ 	 	 	 	"trans": "Поясная сумка",
  	 	 	 	"eng": "Fanny Pack"
  	 	 	}
  	 	},
  	 	"backpack3": {
  	 	 	"name": {
- 	 	 	 	"trans": "Explorer's Backpack",
+ 	 	 	 	"trans": "Рюкзак путешественника",
  	 	 	 	"eng": "Explorer's Backpack"
  	 	 	}
  	 	},
  	 	"backpack4": {
  	 	 	"name": {
- 	 	 	 	"trans": "Employee Office Case",
+ 	 	 	 	"trans": "Кейс офисного работника",
  	 	 	 	"eng": "Employee Office Case"
  	 	 	}
  	 	},
  	 	"backpack5": {
  	 	 	"name": {
- 	 	 	 	"trans": "Autonomous Storage Unit",
+ 	 	 	 	"trans": "Автономная еденица хранения",
  	 	 	 	"eng": "Autonomous Storage Unit"
  	 	 	}
  	 	}
@@ -2127,21 +2127,21 @@
  	 	 	"vars": [
  	 	 	 	"clanResource"
  	 	 	],
- 	 	 	"trans": "${clanResource} gang resource",
+ 	 	 	"trans": "${clanResource} ресурсов банды",
  	 	 	"eng": "${clanResource} gang resource"
  	 	},
  	 	"gangExp": {
  	 	 	"vars": [
  	 	 	 	"clanExp"
  	 	 	],
- 	 	 	"trans": "${clanExp} gang exp",
+ 	 	 	"trans": "${clanExp} опыта банды",
  	 	 	"eng": "${clanExp} gang exp"
  	 	},
  	 	"gangFunding": {
  	 	 	"vars": [
  	 	 	 	"clanMoney"
  	 	 	],
- 	 	 	"trans": "${clanMoney} gang funding",
+ 	 	 	"trans": "${clanMoney} к финансам банды",
  	 	 	"eng": "${clanMoney} gang funding"
  	 	}
  	}
