@@ -342,7 +342,7 @@
  	 	},
  	 	"recycleMachine": {
  	 	 	"name": {
- 	 	 	 	"trans": "Машина для Переаботки",
+ 	 	 	 	"trans": "Машина для Переработки",
  	 	 	 	"eng": "Automatic Recycler"
  	 	 	},
  	 	 	"description": {
@@ -714,7 +714,7 @@
  	 	},
  	 	"healingArea6": {
  	 	 	"name": {
- 	 	 	 	"trans": "Продвинутый Нанобот-медик",
+ 	 	 	 	"trans": "Продвинутый Нанодрон-медик",
  	 	 	 	"eng": "Advance Nano medic drone"
  	 	 	},
  	 	 	"description": {
@@ -972,7 +972,7 @@
  	 	},
  	 	"upgradeChanceIncreaser1": {
  	 	 	"name": {
- 	 	 	 	"trans": "Осколлк Калибровки ИИ (10%)",
+ 	 	 	 	"trans": "Осколок Калибровки ИИ (10%)",
  	 	 	 	"eng": "Calibration AI Shard (10%)"
  	 	 	},
  	 	 	"description": {
@@ -1570,7 +1570,7 @@
  	 	 	 	 	"vars": [
  	 	 	 	 	 	"timeStr"
  	 	 	 	 	],
- 	 	 	 	 	"trans": "Это Займет ${timeStr}",
+ 	 	 	 	 	"trans": "Это займет ${timeStr}",
  	 	 	 	 	"eng": "This will take ${timeStr}"
  	 	 	 	}
  	 	 	}
@@ -1648,7 +1648,7 @@
  	 	 	 	 	"eng": "Compatible Item Identified"
  	 	 	 	},
  	 	 	 	"subTitle": {
- 	 	 	 	 	"trans": "Всё Системы Готовв",
+ 	 	 	 	 	"trans": "Все Системы Готовы",
  	 	 	 	 	"eng": "All system ready"
  	 	 	 	}
  	 	 	},
@@ -1827,7 +1827,7 @@
  	 	},
  	 	"description": {
  	 	 	"name": {
- 	 	 	 	"trans": "Увеличивает показатель щита",
+ 	 	 	 	"trans": "Увеличивает вместимость инвентаря",
  	 	 	 	"eng": "Increases inventory capacity"
  	 	 	}
  	 	},
